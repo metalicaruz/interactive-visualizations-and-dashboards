@@ -1,0 +1,58 @@
+.wrapper {
+    width: 1600px;
+    margin: 0 auto;
+}
+
+.jumbotron {
+    background-color: #004d97;
+    color: white;
+}
+
+.display-4 {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+p {
+    font-size: 40px;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center; 
+}
+
+#select {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.dropdown {
+    background-color: #ade6e6;
+    padding: 60px;
+    font-weight: bold;
+}
+
+.demographic {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.card-header {
+    background-color: black;
+    color: white;
+}
+
+.card-header {
+    background-color: #004d97;
+}
+
+.card-text {
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+#bbl-plot {
+    margin-top: 50px;
+}
